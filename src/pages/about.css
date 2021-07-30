@@ -1,0 +1,41 @@
+.about {
+  margin-left: 3%;
+  font-size: 1px;
+}
+
+.title {
+  margin-left: 3%;
+  font-size: xxx-large;
+}
+
+.facts-head {
+  margin-top: 3%;
+  font-size: xx-large;
+}
+
+.facts {
+  display: grid;
+  justify-content: flex-start;
+  grid-template-areas: 'hometown'
+                        'grad'
+                        'fav-cs'
+                        'fav-non-cs'
+                        'book'
+                        'movie'
+                        'musician'
+                        'podcast'
+                        'hobbies';
+  row-gap: 15px;
+}
+
+.red {
+  padding: 15px;
+  background-color: #ecafaf;
+  border-radius: 10px;
+}
+
+.gray {
+  padding: 15px;
+  background-color: #e5e0e0;
+  border-radius: 10px;
+}

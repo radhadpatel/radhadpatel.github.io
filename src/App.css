@@ -1,8 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web&display=swap");
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap'); */
 
 * {
+  /* font-family: 'Oswald', sans-serif; */
   font-family: 'Titillium Web', sans-serif;
   box-sizing: border-box;
+  font-size: x-large;
   margin: 0;
   padding: 0;
 }

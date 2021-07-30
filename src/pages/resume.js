@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Resume() {
+function Resume() {
   return (
-    <>
-      <h1>Resume</h1>
-    </>
+    <h1>Page in progress</h1>
   );
 }
+
+export default Resume;
